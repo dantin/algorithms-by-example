@@ -16,7 +16,7 @@ class SortsTestCase(unittest.TestCase):
     def test_selection_sort(self):
         """Test selection sort."""
         result = selection_sort(self.my_list)
-        self.assertEqual(result, [2, 3, 5, 6, 10])
+        self.assertListEqual(result, [2, 3, 5, 6, 10])
 
 
 if __name__ == '__main__':
