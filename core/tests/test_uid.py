@@ -5,7 +5,7 @@
 
     Test cases for `guid.py`.
 
-    :copyright: @ 2018 by HC APM team.
+    :copyright: @ 2018 by Datin.
     :license: BSD, see LICENSE for more details.
 """
 
